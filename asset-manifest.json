@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Slideshow/static/css/main.c958106e.css",
+    "main.js": "/Slideshow/static/js/main.1fa27f03.js",
+    "static/js/488.3ab39c21.chunk.js": "/Slideshow/static/js/488.3ab39c21.chunk.js",
+    "static/media/icegif-893.gif": "/Slideshow/static/media/icegif-893.dc9c35b19475ad3fde94.gif",
+    "static/media/The-Stoic-Mindset-Insights-from-Marcus-Aurelius-e1686844253387.png": "/Slideshow/static/media/The-Stoic-Mindset-Insights-from-Marcus-Aurelius-e1686844253387.9f0488f3f0ec7dbc6095.png",
+    "static/media/Beartooth.jpg": "/Slideshow/static/media/Beartooth.71e2c55a483762f231d5.jpg",
+    "static/media/meditations.jpg": "/Slideshow/static/media/meditations.c5d717f22f3a03c6b420.jpg",
+    "index.html": "/Slideshow/index.html",
+    "main.c958106e.css.map": "/Slideshow/static/css/main.c958106e.css.map",
+    "main.1fa27f03.js.map": "/Slideshow/static/js/main.1fa27f03.js.map",
+    "488.3ab39c21.chunk.js.map": "/Slideshow/static/js/488.3ab39c21.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c958106e.css",
+    "static/js/main.1fa27f03.js"
+  ]
+}
